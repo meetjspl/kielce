@@ -16,5 +16,5 @@ Dzięki zgłoszeniu tematu dowiesz się, jakie szczegóły problemu interesują 
 Czas trwania prezentacji to max 10 min. Czym jest lightning talk możesz spokojnie przeczytać w [wiki](https://en.wikipedia.org/wiki/Lightning_talk)
 
 ## Najbliższe spotkanie
-**07.02.2019 r** - Restauracja "Plejada", Rynek 16 -  Kielce
+**04.04.2019 r** - Restauracja "Czewony Fortepian", Piotrkowska 12 -  Kielce
 
