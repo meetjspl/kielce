@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <title>Fluo IT Marcin Witecki - MeetJS Kielce</title>
+
+  <base href="/">
+  <meta http-equiv="Content-Security-Policy"
+        content="default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline'; connect-src 'self' wss://localhost:4200 ws://localhost:4200 http://localhost:3000;">
+  <meta charset="utf-8">
+  <meta name="viewport"
+        content="width=device-width, initial-scale=1">
+  <meta name="theme-color"
+        content="#1976d2">
+  <link rel="icon"
+        type="image/x-icon"
+        href="favicon.ico">
+  <link rel="manifest"
+        href="manifest.json">
+</head>
+
+<body>
+  <fit-app></fit-app>
+  <noscript>Please enable JavaScript to continue using this application.</noscript>
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('service-worker.js').then(function (registration) {
+        console.log('Service Worker registration successful with scope: ', registration.scope);
+      }, function (err) {
+        console.log('Service Worker registration failed: ', err);
+      });
+
+      navigator.serviceWorker.ready.then(function (registration) {
+        console.log('Service Worker ready');
+      });
+    }
+  </script>
+</body>
+
+</html>

@@ -1,0 +1,15 @@
+<div class="modal-header">
+  <h4 class="modal-title">Potwierdzenie</h4>
+  <button type="button" class="close" (click)="onCancelClick()">
+    <span>&times;</span>
+  </button>
+</div>
+
+<div class="modal-body">
+  <p>Czy na pewno chcesz usunąć element o id: {{ id }}</p>
+</div>
+
+<div class="modal-footer">
+  <button type="button" class="btn btn-outline-success" (click)="onConfirmClick()">Tak</button>
+  <button type="button" class="btn btn-outline-dark" (click)="onCancelClick()">Nie</button>
+</div>
