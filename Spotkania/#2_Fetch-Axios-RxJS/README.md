@@ -1,6 +1,4 @@
-#Prelekcje
-
----
+# Prelekcje
 
 **Fetch vs Axios - Adrian Bienias**
 
