@@ -1,0 +1,26 @@
+<form class="my-5" novalidate #ngForm="ngForm" (submit)="onSubmit()">
+  <ng-container *ngIf="(usersForm$ | async) as usersForm">
+    <div class="form-row">
+      <div class="col">
+        <label for="firstName">Imię</label>
+        <input id="firstName" name="firstName" type="text" class="form-control" [ngModel]="usersForm.firstName" />
+      </div>
+
+      <div class="col">
+        <label for="lastName">Nazwisko</label>
+        <input id="lastName" name="lastName" type="text" class="form-control" [ngModel]="usersForm.lastName" />
+      </div>
+
+      <div class="col">
+        <label for="email">E-mail</label>
+        <input id="email" name="email" type="text" class="form-control" [ngModel]="usersForm.email" />
+      </div>
+    </div>
+
+    <div class="form-row my-3">
+      <div class="col text-center">
+        <button type="submit" class="btn btn-primary">Szukaj</button>
+      </div>
+    </div>
+  </ng-container>
+</form>

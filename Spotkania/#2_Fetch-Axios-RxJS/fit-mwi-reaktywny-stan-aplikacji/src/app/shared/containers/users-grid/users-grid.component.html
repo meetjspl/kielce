@@ -1,0 +1,30 @@
+<div class="row my-1">
+  <div class="col text-right">
+    <fit-user-modal-button></fit-user-modal-button>
+  </div>
+</div>
+
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th>Id</th>
+      <th>Imię</th>
+      <th>Nazwisko</th>
+      <th>E-mail</th>
+      <th></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr *ngFor="let user of (users$ | async) as users">
+      <td>{{ user.id }}</td>
+      <td>{{ user.firstName }}</td>
+      <td>{{ user.lastName }}</td>
+      <td>{{ user.email }}</td>
+      <td class="text-center">
+          <fit-user-modal-button [sId]="user.id"></fit-user-modal-button>
+        <fit-removal-button [sId]="user.id" (confirmEvent)="onRemoveClick(user.id)"></fit-removal-button>
+      </td>
+    </tr>
+  </tbody>
+</table>

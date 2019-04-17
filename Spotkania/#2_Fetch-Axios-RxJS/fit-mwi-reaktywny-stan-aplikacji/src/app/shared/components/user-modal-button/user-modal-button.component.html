@@ -1,0 +1,8 @@
+<button
+  type="button"
+  class="btn btn-sm mx-1"
+  [ngClass]="{ 'btn-outline-success': !sId, 'btn-outline-primary': sId }"
+  (click)="onButtonClick()"
+>
+  <i class="fas" [ngClass]="{ 'fa-plus': !sId, 'fa-edit': sId }"></i>
+</button>
