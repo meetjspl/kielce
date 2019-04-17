@@ -1,7 +1,5 @@
 # Prelekcje
 
---- 
-
 **Dlaczego warto stworzyć grę w JavaScript ? - Mateusz Morszczyzna**
 
 Jest duża szansa, że kiedyś grając w swoją ulubioną grę pomyślałeś, że też chciałbyś kiedyś stworzyć własną, co pchnęło Cię w kierunku IT, jednak finalnie zająłeś się webdevem. Wielu z nas podążyło właśnie taką ścieżką, ale nie znaczy to, że nie warto zrealizować marzenia z młodości. 
