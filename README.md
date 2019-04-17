@@ -16,5 +16,10 @@ Dzięki zgłoszeniu tematu dowiesz się, jakie szczegóły problemu interesują 
 Czas trwania prezentacji to max 10 min. Czym jest lightning talk możesz spokojnie przeczytać w [wiki](https://en.wikipedia.org/wiki/Lightning_talk)
 
 ## Najbliższe spotkanie
-**04.04.2019 r** - Restauracja "Czewony Fortepian", Piotrkowska 12 -  Kielce
+**?.05.2019** - Restauracja "Czewony Fortepian", Piotrkowska 12 -  Kielce
 
+### Dotychczasowe spotkania:
+1. Inauguracja - [Prezentacje](./Spotkania/#1_Inauguracja)
+2. Fetch vs. Axios , Reaktywny stan aplikacji,  Lightning talks  - [Prezentacje](./Spotkania/#2_Fetch-Axios-RxJs), [Przykładowa Aplikacja RxJS](./Spotkania/#2_Fetch-Axios-RxJs/fit-mwi-reaktywny-stan-aplikacji)
+ 
+ 
