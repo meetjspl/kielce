@@ -19,7 +19,7 @@ Czas trwania prezentacji to max 10 min. Czym jest lightning talk możesz spokojn
 **?.05.2019** - Restauracja "Czewony Fortepian", Piotrkowska 12 -  Kielce
 
 ### Dotychczasowe spotkania:
-1. Inauguracja - [Prezentacje](./Spotkania/#1_Inauguracja)
-2. Fetch vs. Axios , Reaktywny stan aplikacji,  Lightning talks  - [Prezentacje](./Spotkania/#2_Fetch-Axios-RxJs), [Przykładowa Aplikacja RxJS](./Spotkania/#2_Fetch-Axios-RxJs/fit-mwi-reaktywny-stan-aplikacji)
+1. Inauguracja - [Prezentacje](./Spotkania/#1_Inauguracja/)
+2. Fetch vs. Axios , Reaktywny stan aplikacji,  Lightning talks  - [Prezentacje](./Spotkania/#2_Fetch-Axios-RxJs), [Przykładowa Aplikacja RxJS](./Spotkania/#2_Fetch-Axios-RxJs/fit-mwi-reaktywny-stan-aplikacji/)
  
  
