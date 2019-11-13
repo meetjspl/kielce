@@ -21,5 +21,7 @@ Czas trwania prezentacji to max 10 min. Czym jest lightning talk możesz spokojn
 ### Dotychczasowe spotkania:
 1. Inauguracja - [Prezentacje](./Spotkania//%231_Inauguracja/)
 2. Fetch vs. Axios , Reaktywny stan aplikacji,  Lightning talks  - [Prezentacje](./Spotkania/%232_Fetch-Axios-RxJS), [Przykładowa Aplikacja RxJS](./Spotkania/%232_Fetch-Axios-RxJS/fit-mwi-reaktywny-stan-aplikacji/)
+3. Jak pisać kod dobrej jakości? Testy  - [Prezentacje](./Spotkania/%233_Jak_pisac_kod_dobrej_jakosci_testy_tdd)
+4. Skalowanie_JS_Nowosci_TS_Mity_w_JS  - [Prezentacje](./Spotkania/%234_Skalowanie_JS_Nowosci_TS_Mity_w_JS)
  
  
